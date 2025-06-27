@@ -4,4 +4,6 @@
 
 水獭AI安全卫士致力于解决大模型技术及大模型应用场景的安全风险，如提示词注入、框架安全、内容安全及隐私防护等。
 
+<figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2M5MmViOGRlNDQzYTEzZDA0MWI4YWFkMDYyOWUzZDlfQUtSQlhtd09BMFB3V2JQWG9VUkZzbHBpMkhVM3dVZjJfVG9rZW46UW44VWJadVdPb2xSdkJ4UEtTeWMybUp0bmVjXzE3NTEwMDI3Mjc6MTc1MTAwNjMyN19WNA" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=YmQ3NzljYzBlZDI5ODU1MTVhZjhhYzM0NzRmNzRiMzNfdDlCaG14a0tJTlM2ZkZLRWRHVVdZb0s1Q1lwR0hGdFdfVG9rZW46UW44VWJadVdPb2xSdkJ4UEtTeWMybUp0bmVjXzE3NTA5NDIxNTM6MTc1MDk0NTc1M19WNA" alt=""><figcaption></figcaption></figure>

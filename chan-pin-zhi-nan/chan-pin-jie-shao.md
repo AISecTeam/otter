@@ -6,11 +6,11 @@
 
 水獭AI安全卫士致力于解决大模型技术及大模型应用场景的安全风险，如提示词注入、框架安全、内容安全及隐私防护等。
 
-<figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2M5MmViOGRlNDQzYTEzZDA0MWI4YWFkMDYyOWUzZDlfQUtSQlhtd09BMFB3V2JQWG9VUkZzbHBpMkhVM3dVZjJfVG9rZW46UW44VWJadVdPb2xSdkJ4UEtTeWMybUp0bmVjXzE3NTEwMDI3Mjc6MTc1MTAwNjMyN19WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=YjRmOGMyYmQzYzhiMGU0MDlhNDY5OTBhZDg1YmI5OWVfczk5M2xFWUN6THpCQ0hlM3BTOHZ3Q3F6cE9ubjZPVWhfVG9rZW46UW44VWJadVdPb2xSdkJ4UEtTeWMybUp0bmVjXzE3NTEyNzc1MDg6MTc1MTI4MTEwOF9WNA" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=MThlNDU2NWE4MDUxY2E3ZDU5MDI0ZGU0NWIxYmVjMDBfTTZYS202Y1dCSlhoOUp0UFp1bGtSREd6T1lhVVFrZ3JfVG9rZW46UW44VWJadVdPb2xSdkJ4UEtTeWMybUp0bmVjXzE3NTA5NDI4Mjg6MTc1MDk0NjQyOF9WNA" alt=""><figcaption></figcaption></figure>
 
-### **产品核心优势**
+**产品核心优势**
 
 水獭AI安全卫士具备如下核心优势：
 
@@ -26,9 +26,9 @@ E. **MCP安全防护**：支持大模型应用调用远程MCP工具的安全防�
 
 F. **内容违规防护**：支持用户输入或大模型输出内容中的涉黄、涉爆等10余种违规内容的快速检测
 
-<figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=NzRmYjU4MTA5OGZiNTJmNDMwZjJlNzAzOTQyM2NkNjdfcmowclhpbHQ1ZlRySFF6MGxlbnc2QlpMdFNBUENBbHlfVG9rZW46R29XeWJNbWwxb1UyWkx4SlVLQmNxMHFCbldoXzE3NTEwMDI3Njk6MTc1MTAwNjM2OV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=OWY2MGUyNWFiZDIyNjgyMDAzZWUyYjliNzA0OWMwNjRfblZCNmxzN04ybHNibjF1NG1JZjlzTE81amxlaVZmZDhfVG9rZW46R29XeWJNbWwxb1UyWkx4SlVLQmNxMHFCbldoXzE3NTEyNzc1NDI6MTc1MTI4MTE0Ml9WNA" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTYzNmNkMjlhNDc0Mzg1NmE4OTRlOGRiMjc2M2U5ODVfS2h3aW5jU2VPRlJ5djM0NTdtbFJ1d0tKQ1pNMWNFNEFfVG9rZW46R29XeWJNbWwxb1UyWkx4SlVLQmNxMHFCbldoXzE3NTA5NDI4Mjg6MTc1MDk0NjQyOF9WNA" alt=""><figcaption></figcaption></figure>
+
 
 ### **产品特点**
 
@@ -45,6 +45,8 @@ B.**高效威胁检测**
 C. **轻量灵活、部署方便**
 
 &#x20;      产品轻量，最大程度满足用户无感接入，支持单节点、集群等部署方式。
+
+<figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=NzUxOTY2NDMzZGU1M2JjMTBjMTdhZGIzOWY4ZGZiNTVfS3lGT0VQdUFrRXhnaXRrYlZwNXhuWFBZZDQybFVrQzBfVG9rZW46UUFqaWJadDRab25TSTl4R0doM2N6QmUxbnVlXzE3NTEyNzc1Njk6MTc1MTI4MTE2OV9WNA" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=YjdmZTEwZTUzOGNjNGQ5YzI4MjkyOWU5NDcwZjRjODZfUTI2TEpiaWcyZWNyNmZzMUlVNlh2dEVlZThncWhpSTNfVG9rZW46UUFqaWJadDRab25TSTl4R0doM2N6QmUxbnVlXzE3NTA5NDI4Mjg6MTc1MDk0NjQyOF9WNA" alt=""><figcaption></figcaption></figure>
 
@@ -72,7 +74,11 @@ B.AI供应链方面团队核心成员会实时关注AI框架的安全情况，�
 
 ### **产品形态**
 
-水獭AI安全卫士支持软硬一体机、Saas、功能模块化接入等形态
+水獭AI安全卫士支持软硬一体机、企业级Saas、功能模块化接入等形态
+
+![](https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=OWM1NzE0MjE4NmY4YTIyMTc5MGU0MzY0NWI5YjQ2ODVfbUI5Q2FEM2RybERRTmI3TmpIQ1VQckRLeHlya3VZaVJfVG9rZW46TWw0VmJoVGtSb2E1aEx4MVpYc2NVWEdFbnFnXzE3NTEyNzc1ODQ6MTc1MTI4MTE4NF9WNA)
+
+<figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=NzQ0NjMxNmVkYjYzZmM5MWUxMzcyNWVhNTZlMjNhODlfb2djbWhneFBKWG9Nemo1NEtaYUExUDRIcElJZlZNSVpfVG9rZW46SElZamJHb1FMbzJwVTB4OG5TSWNqSW14bmtuXzE3NTEyNzc2MDc6MTc1MTI4MTIwN19WNA" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://icn0tdp1q83o.feishu.cn/space/api/box/stream/download/asynccode/?code=YTBiODU4NjY0MDUwNjQ0N2FmMmI0NmZlNDFkNDNkZWRfSk5HYUQydEVTVTU4eVE5SEV0ZFhSTE5GOFFlMG9KUzZfVG9rZW46TWw0VmJoVGtSb2E1aEx4MVpYc2NVWEdFbnFnXzE3NTEwMDI4MjY6MTc1MTAwNjQyNl9WNA" alt=""><figcaption></figcaption></figure>
 

@@ -14,6 +14,7 @@
 * [开发者文档](kai-fa-zhe-wen-dang.md)
 * [研究成果](yan-jiu-cheng-guo/README.md)
   * [海绵样本](yan-jiu-cheng-guo/hai-mian-yang-ben.md)
-  * [提示词注入](yan-jiu-cheng-guo/ti-shi-ci-zhu-ru.md)
+  * [越狱攻击](yan-jiu-cheng-guo/yue-yu-gong-ji.md)
   * [AI框架攻击](yan-jiu-cheng-guo/ai-kuang-jia-gong-ji.md)
+  * [目标劫持](yan-jiu-cheng-guo/mu-biao-jie-chi.md)
 * [版本日志](ban-ben-ri-zhi.md)
